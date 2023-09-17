@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 Demo: https://jencolletta.github.io/holiday-countdown
+<img width="1347" alt="Screen Shot 2023-09-16 at 8 26 54 PM" src="https://github.com/jencolletta/holiday-countdown/assets/47162961/af791742-1445-4852-a7bf-f2b809151adc">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
