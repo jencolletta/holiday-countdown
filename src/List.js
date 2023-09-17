@@ -7,7 +7,7 @@ const List = ({ allHolidays }) => {
         const { id, name, days, image } = holidays;
         return (
           <article key={id} className='holidays'>
-            <img src={image} alt={name} />
+            {image}
             <div>
               <h4>{name}</h4>
               <p>{days} Days Until</p>

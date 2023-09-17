@@ -28,35 +28,30 @@ export default [
     id: 1,
     name: 'Halloween', 
     days: Math.abs(Math.ceil(timeUntilHalloween / (1000 * 60 * 60 * 24))),
-    image:
-      'https://internationalnewsagency.org/wp-content/uploads/2020/10/pumpkin-emoji-1200x900.png',
+    image: String.fromCodePoint(0x0001F383)
   },
   {
     id: 2,
     name: 'Thanksgiving',
     days: Math.abs(Math.ceil(timeUntilThanksgiving / (1000 * 60 * 60 * 24))),
-    image:
-      'https://64.media.tumblr.com/1ae9f0b83bb33f50905b393a53965322/tumblr_inline_nydkzdgLIc1s4rar7_1280.png',
+    image:String.fromCodePoint(0x0001F983)
   },
   {
     id: 3,
     name: 'Christmas',
     days: Math.abs(Math.ceil(timeUntilChristmas / (1000 * 60 * 60 * 24))),
-    image:
-      'https://pngimage.net/wp-content/uploads/2018/05/christmas-tree-emoji-png-2.png',
+    image:String.fromCodePoint(0x0001F384)
   },
   {
     id: 4,
     name: 'New Years Day',
     days: Math.abs(Math.ceil(timeUntilNewYears / (1000 * 60 * 60 * 24))),
-    image:
-      'https://pbs.twimg.com/media/DqwfauOXgAAm5_L.jpg',
+    image:String.fromCodePoint(0x0001F942)
   },
   {
     id: 5,
     name: 'Valentines Day',
     days: Math.abs(Math.ceil(timeUntilValentines / (1000 * 60 * 60 * 24))),
-    image:
-      'https://i.pinimg.com/originals/2d/ca/9d/2dca9d6dae33613bfd6d6fa1ba67872c.png',
+    image:String.fromCodePoint(0x0001F498)
   },
 ];
