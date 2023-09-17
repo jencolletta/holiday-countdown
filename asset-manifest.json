@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/holiday-countdown/static/css/main.08f7d8e2.css",
+    "main.js": "/holiday-countdown/static/js/main.a0d0853c.js",
+    "index.html": "/holiday-countdown/index.html",
+    "main.08f7d8e2.css.map": "/holiday-countdown/static/css/main.08f7d8e2.css.map",
+    "main.a0d0853c.js.map": "/holiday-countdown/static/js/main.a0d0853c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f7d8e2.css",
+    "static/js/main.a0d0853c.js"
+  ]
+}
